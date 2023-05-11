@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pushparaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-- 🔭 I’m currently working on [Ecommerce](https://play.google.com/store/apps/details?id=com.samil.customer)
+- 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **flutter framework**
 
-- 👨‍💻 All of my projects are available at [https://pushparajmanickam.github.io/custom_portfolio/](https://pushparajmanickam.github.io/custom_portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pushparajmanickam.github.io/custom_portfolio/)
 
 - 💬 Ask me about **flutter and dart**
 
 - 📫 How to reach me **pushparaj27091998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bDBBsDqxqRMyrdTmlxl0xhkWr9ptErwk/view](https://drive.google.com/file/d/1bDBBsDqxqRMyrdTmlxl0xhkWr9ptErwk/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bDBBsDqxqRMyrdTmlxl0xhkWr9ptErwk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
