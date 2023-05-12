@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushparaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=pushparajmanickam alt=rahuldkjain/> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 - 🔭 I’m currently working on Ecommerce project
 
@@ -40,7 +42,11 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/@Pushparaj2709"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@Pushparaj Manickam" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/@Pushparaj2709"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@PushparajManickam" /></a></p><br><br>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pushparajmanickam&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pushparajmanickam&show_icons=true alt=pushparajmanickam /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushparajmanickam&show_icons=true&locale=en&layout=compact" alt="pushparaj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushparajmanickam&" alt="pushparajmanickam" /></p>
